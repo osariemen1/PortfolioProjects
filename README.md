@@ -3,15 +3,16 @@ Data analytics portfolio
 
 # [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
 
-### Problem Statement: What is the Percentage of COVID cases globally and the Percentage of People Vaccinated globally?
+### Problem Statement: This project aims to find the percentage of people affected by COVID and the Vaccinated Population
 
 ### Tools and Techniques Used:
-- Excel
+- Excel: Conditional formatting 
 - SQL
 - Tableau
 
-  ### Dataset Overview:
+### Dataset Overview:
 - The data set contains features such as:
+    - Dataset: Our World in Data
     - Total Cases of COVID
     - Total Deaths from COVID
     - The Percentage of Population affected by COVID
@@ -23,5 +24,25 @@ Data analytics portfolio
 - On a global scale, the total number of cases where higher than the total number of deaths
 - The total death count was highest in Europe among other continents
 - United Kingdom had the highest percent of infected people in it's population
+
+
+### [Project 2: Amazon transactions](https://github.com/osariemen1/PortfolioProjects)
+
+### Problem Statement: Find out the total amount purchased by year and average price per unit
+
+### Tools and Techniques Used:
+- Excel: Conditional formatting
+   - Vlookup
+
+### Dataset Overview:
+- The data set contains features such as:
+    - Dataset: Amazon transactions
+
+
+### Key Insights:
+- The Highest total spent was $14872.32 in 2022. It seems after 2022, the spending reduced drastically in 2023. The amount spent in 2023 was $604.59
+- The highest average per item was $48.30 in 2006
+
+
 
 
