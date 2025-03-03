@@ -26,8 +26,6 @@ Data analytics portfolio
 - United Kingdom had the highest percent of infected people in it's population
 
   ![image](https://github.com/user-attachments/assets/55106ac5-4313-45a9-b364-ea29e171aa07)
-  
-
 
 ### [Project 2: Amazon transactions](https://github.com/osariemen1/PortfolioProjects)
 
