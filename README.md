@@ -24,8 +24,7 @@ Data analytics portfolio
 - On a global scale, the total number of cases where higher than the total number of deaths
 - The total death count was highest in Europe among other continents
 - United Kingdom had the highest percent of infected people in it's population
-  
- ![](https://github.com/osariemen1/PortfolioProjects/blob/main/Covid%20Dashboard%201.pdf)
+  ![image](https://github.com/user-attachments/assets/bbea2311-8608-43cf-a45b-c425d5b2fe73)
 
 ### [Project 2: Amazon transactions](https://github.com/osariemen1/PortfolioProjects)
 
