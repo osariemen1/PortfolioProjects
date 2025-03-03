@@ -9,6 +9,8 @@ Data analytics portfolio
 - Excel: Conditional formatting 
 - SQL
 - Tableau
+  
+![image](https://github.com/user-attachments/assets/55106ac5-4313-45a9-b364-ea29e171aa07)
 
 ### Dataset Overview:
 - The data set contains features such as:
