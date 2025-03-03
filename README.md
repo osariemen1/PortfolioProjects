@@ -1,7 +1,8 @@
 # Theresa_Portfolio
 Data analytics portfolio
 
-# [Project 1:  COVID Population: Project Overview] (https://https://github.com/osariemen1/PortfolioProjects)
+# [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
+
 ### Problem Statement: What is the Percentage of COVID cases globally and the Percentage of People Vaccinated globally?
 
 ### Tools and Techniques Used:
