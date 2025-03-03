@@ -25,6 +25,8 @@ Data analytics portfolio
 - The total death count was highest in Europe among other continents
 - United Kingdom had the highest percent of infected people in it's population
  ![image](https://github.com/user-attachments/assets/60f9f3eb-599c-425c-aa74-c27f86fdee9d)
+
+
 ### [Project 2: Amazon transactions](https://github.com/osariemen1/PortfolioProjects)
 
 ### Problem Statement: Find out the total amount purchased by year and average price per unit
@@ -37,10 +39,11 @@ Data analytics portfolio
 - The data set contains features such as:
     - Dataset: Amazon transactions
 
-
 ### Key Insights:
 - The Highest total spent was $14872.32 in 2022. It seems after 2022, the spending reduced drastically in 2023. The amount spent in 2023 was $604.59
 - The highest average per item was $48.30 in 2006
+
+![image](https://github.com/user-attachments/assets/62c8f65f-3b21-4e56-a0d6-3564b1b59795)
 
 
 
