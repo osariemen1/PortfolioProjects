@@ -1,4 +1,4 @@
-# Theresa_Portfolio
+# Osas_Portfolio
 Data analytics portfolio
 
 # [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
