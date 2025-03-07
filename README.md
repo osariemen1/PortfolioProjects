@@ -3,48 +3,56 @@ Data analytics portfolio
 
 # [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
 
-### Problem Statement: This project aims to find the percentage of people affected by COVID and the Vaccinated Population
+### Problem Statement: This project analyzes the infected people affected by COVID-19 and those who are vaccinated.
 
 ### Tools and Techniques Used:
-- Excel: Conditional formatting 
 - SQL
+      - Used to interact with the imported dataset to produce meaningful data. Used for data retrieval and filtering to find infected people by countries and continents. Used for aggregation and grouping of data to have a clear and specified view mainly in the states and globally. 
 - Tableau
+-     Used to visualize select queries from SQL to present meaningul insights. Used to complile various values to tell a story and drive informed decisions.
 
 ### Dataset Overview:
 - The data set contains features such as:
     - Dataset: Our World in Data
-    - Total Cases of COVID
-    - Total Deaths from COVID
-    - The Percentage of Population affected by COVID
+    - Total Cases of COVID in the United States
+    - Total Deaths from COVID in the United States 
+    - The Percentage of Population affected by COVID on a global scale 
     - Highest Rates of Infection and Death among continents and countries
-    - The Percentage of Vaccinated People in the Population
-    - Dates are from 01/03/2020 - 08/09/2023
+    - The Percentage of Vaccinated People on a global scale
 
 ### Key Insights:
 - On a global scale, the total number of cases where higher than the total number of deaths
 - The total death count was highest in Europe among other continents
-- United Kingdom had the highest percent of infected people in it's population
+- Predictive analysis shows a forecast of an increase rate of infected people in the UK as well as other countries.
   ![](https://github.com/osariemen1/PortfolioProjects/blob/main/COVID%20dashboard.png)
 
 
-### [Project 2: Amazon transactions](https://github.com/osariemen1/PortfolioProjects)
 
-### Problem Statement: Find out the total amount purchased by year and average price per unit
+
+
+
+# [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
+
+### Problem Statement: 
 
 ### Tools and Techniques Used:
-- Excel: Conditional formatting
-   - Vlookup
+- SQL
+      - Used to interact with the imported dataset to produce meaningful data. Used for data retrieval and filtering to find infected people by countries and continents. Used for aggregation and grouping of data to have a clear and specified view mainly in the states and globally. 
+- Tableau
+-     Used to visualize select queries from SQL to present meaningul insights. Used to complile various values to tell a story and drive informed decisions.
 
 ### Dataset Overview:
 - The data set contains features such as:
-    - Dataset: Amazon transactions
+    - Dataset: Our World in Data
+    - Total Cases of COVID in the United States
+    - Total Deaths from COVID in the United States 
+    - The Percentage of Population affected by COVID on a global scale 
+    - Highest Rates of Infection and Death among continents and countries
+    - The Percentage of Vaccinated People on a global scale
 
 ### Key Insights:
-- The Highest total spent was $14872.32 in 2022. It seems after 2022, the spending reduced drastically in 2023. The amount spent in 2023 was $604.59
-- The highest average per item was $48.30 in 2006
+- On a global scale, the total number of cases where higher than the total number of deaths
+- The total death count was highest in Europe among other continents
+- Predictive analysis shows a forecast of an increase rate of infected people in the UK as well as other countries.
 
-![image](https://github.com/user-attachments/assets/62c8f65f-3b21-4e56-a0d6-3564b1b59795)
-
-
-
-
+![](https://github.com/osariemen1/PortfolioProjects/blob/main/COVID%20dashboard.png)
