@@ -31,7 +31,7 @@ Data analytics portfolio
 
 
 
-# [Project 2: OCD Diagnosis: Project Overview]
+# [Project 2: OCD Diagnosis: Project Overview](https://github.com/osariemen1/PortfolioProjects)
 
 ### Problem Statement: This project explores the variations in OCD diagnoses based on gender, ethnicity, and obsession types.
 
