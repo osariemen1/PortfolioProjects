@@ -1,4 +1,4 @@
-# Osas_Portfolio
+# Osas_Theresa_Portfolio
 
 # [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
 
