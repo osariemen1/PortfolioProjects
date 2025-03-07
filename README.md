@@ -9,7 +9,7 @@ Data analytics portfolio
 - SQL
       - Used to interact with the imported dataset to produce meaningful data. Used for data retrieval and filtering to find infected people by countries and continents. Used for aggregation and grouping of data to have a clear and specified view mainly in the states and globally. 
 - Tableau
--     Used to visualize select queries from SQL to present meaningul insights. Used to complile various values to tell a story and drive informed decisions.
+      - Used to visualize select queries from SQL to present meaningul insights. Used to complile various values to tell a story and drive informed decisions.
 
 ### Dataset Overview:
 - The data set contains features such as:
@@ -55,4 +55,6 @@ Data analytics portfolio
 - The total death count was highest in Europe among other continents
 - Predictive analysis shows a forecast of an increase rate of infected people in the UK as well as other countries.
 
-![](https://github.com/osariemen1/PortfolioProjects/blob/main/COVID%20dashboard.png)
+![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%201.png)
+![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%202.png)
+![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%203.png)
