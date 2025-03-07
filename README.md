@@ -1,5 +1,4 @@
 # Osas_Portfolio
-Data analytics portfolio
 
 # [Project 1:  COVID Population: Project Overview](https://github.com/osariemen1/PortfolioProjects)
 
@@ -53,6 +52,8 @@ Data analytics portfolio
 ### Key Insights:
 - Females have a higher rate of OCD diagnosis compared to Males in the data set
 - The ethnicity with the higest amount of OCD Daignosis was found in the Caucasian group
+- 2018 had the highest OCD Diagnosis followed by years of subsequent drop in OCD Diagnosis
+- The most common obsessive type was caused by harmning thoughts
 
 ![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%201.png)
 ![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%202.png)
