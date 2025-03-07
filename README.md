@@ -23,7 +23,7 @@
 - On a global scale, the total number of cases where higher than the total number of deaths
 - The total death count was highest in Europe among other continents
 - Predictive analysis shows a forecast of an increase rate of infected people in the UK as well as other countries.
-  ![](https://github.com/osariemen1/PortfolioProjects/blob/main/COVID%20dashboard.png)
+  ![](/COVID%20dashboard.png)
 
 
 
@@ -55,6 +55,6 @@
 - 2018 had the highest OCD Diagnosis followed by years of subsequent drop in OCD Diagnosis
 - The most common obsessive type was caused by harmning thoughts
 
-![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%201.png)
-![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%202.png)
-![](https://github.com/osariemen1/PortfolioProjects/blob/main/Dashboard%203.png)
+![](/Dashboard%201.png)
+![](/Dashboard%202.png)
+![](/Dashboard%203.png)
