@@ -54,13 +54,3 @@ FROM
     ocd
 GROUP BY 
     obsession_type;
-
---5. What is the most common Compulsion type (Count) & it's respective Average Obsession Score 
-SELECT 
-	compulsion_type,
-    COUNT (*) AS count_with_ocd,
-    ROUND (AVG(ocd.obssession_score),2) AS avg_obsession_score
-FROM 
-    ocd
-GROUP BY 
-    compulsion_type;
