@@ -23,7 +23,7 @@
 - On a global scale, the total number of cases where higher than the total number of deaths
 - The total death count was highest in Europe among other continents
 - Predictive analysis shows a forecast of an increase rate of infected people in the UK as well as other countries.
-  ![](/images/COVID%20dashboard.png)
+  ![](images/COVID%20dashboard.png)
 
 
 
