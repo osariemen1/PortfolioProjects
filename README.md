@@ -55,6 +55,6 @@
 - 2018 had the highest OCD Diagnosis followed by years of subsequent drop in OCD Diagnosis
 - The most common obsessive type was caused by harmning thoughts
 
-![](/images/Dashboard%201.png)
-![](/images/Dashboard%202.png)
-![](/images/Dashboard%203.png)
+![](images/Dashboard%201.png)
+![](images/Dashboard%202.png)
+![](images/Dashboard%203.png)
